@@ -1,0 +1,2 @@
+# MetroTrainAnimation
+A computer graphic animation project. The application is developed in C++ using OpenGL (Open Graphics Library) on Windows ,which is a standard specification defining a cross- language, cross-platform API for writing applications that produce 2D and 3D computer graphics. The four major areas of computer graphics i.e. display of information, design, simulation &amp; animation and user interfaces were attempted in the application.
